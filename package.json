@@ -1,0 +1,19 @@
+{
+  "name": "alarm-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/lib/startService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devstylez/alarmSender.git"
+  },
+  "author": "devstylez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devstylez/alarmSender/issues"
+  },
+  "homepage": "https://github.com/devstylez/alarmSender#readme"
+}
